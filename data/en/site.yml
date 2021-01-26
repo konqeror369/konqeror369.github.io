@@ -1,0 +1,10 @@
+# Copyright Notice
+copyright: © 2021 Copyright.
+
+# Meta description for your site.  This will help the search engines to find your site.
+description: Curriculum Vitae and personal blog of Sai Charan Reddy K.
+
+#Custom menus for NavBar
+customMenus:
+- name: Blog
+  url: https://konqeror369.github.io/blog/

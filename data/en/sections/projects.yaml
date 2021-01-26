@@ -1,0 +1,80 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Major
+  filter: "major"
+- name: Minor
+  filter: "minor"
+- name: Academic
+  filter: "academic"
+- name: Hobby/Voluntary
+  filter: "hobby"
+
+# your projects
+projects:
+- name: Architecture Analysis & Design Language
+  logo: /images/sections/projects/code.png
+  role: Contributor
+  timeline: "May 2019 - March 2020"
+  #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Safety Analysis of Industrial Cyber-Physical Systems Modeled in AADL
+  url: ""
+  tags: ["major", "hobby"]
+
+- name: Undergrad Thesis
+  logo: /images/sections/projects/no-code.png
+  role: Student
+  timeline: "Jun 2019 - December 2019"
+  url: ""
+  summary: Digital Maturity Assessment of Hospitals in India
+  tags: ["major", "academic"]
+
+- name: Hadoop MapReduce
+  logo: /images/sections/projects/hadoop.png
+  url: ""
+  summary: Performance Analysis of MapReduce Tasks in AWS Elastic MapReduce (EMR) clusters
+  tags: ["academic", "minor"]
+
+- name: Virtualization
+  logo: /images/sections/projects/code.png
+  url: ""
+  summary: Comparative Study of Performance in various Virtualized Scenarios
+  tags: ["academic", "minor"]
+  
+- name: Cheddar
+  logo: /images/sections/projects/code.png
+  url: ""
+  summary: Comparative Study of Real Time Scheduling Algorithms in Cheddar and Refinement for Discrete Use Cases
+  tags: ["academic", "minor"]
+  
+- name: Linux
+  logo: /images/sections/projects/linux.png
+  url: ""
+  summary: Building Documentation of Scheduling Algorithms in Linux Kernel
+  tags: ["academic", "minor"]
+  
+- name: Mesos
+  logo: /images/sections/projects/mesos.jpg
+  url: ""
+  summary: Performance Analysis of Containerizers in Mesos
+  tags: ["academic", "minor"]
+  
+- name: Visual Basic
+  logo: /images/sections/projects/visualbasic.png
+  url: ""
+  summary: Keylogger in Visual Basic with screenshotting & emailing capabilities
+  url: https://github.com/konqeror369/vb-keylogger
+  tags: ["hobby", "minor"]
+  

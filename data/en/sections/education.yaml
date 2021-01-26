@@ -1,0 +1,89 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+# - name: Ph.D in Quantum Cryptography
+  # icon: fa-microscope
+  # timeframe: 2016-2020
+  # institution:
+    # name: ABC University of Technology
+    # url: "#"
+  # grade: #(optional)
+    # scale: CGPA
+    # achieved: 3.6
+    # outOf: 4
+  # publications: #(optional)
+  # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    # url: "#"
+- name: B.E.(Hons) in Computer Science
+  icon: fa-graduation-cap
+  timeframe: 2015-2019
+  institution:
+    name: Birla Institute of Science & Technology - Pilani, KK Birla Goa Campus
+    url: "https://www.bits-pilani.ac.in/goa/"
+  #grade: #(optional)
+    #scale: CGPA
+    #achieved: 3.5
+    #outOf: 4
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    courses:
+    - name: Cloud Computing
+      # achieved: 3.75
+      # outOf: 4
+    - name: Real-Time Systems
+
+    - name: Data Storage Technologies & Networks
+
+    - name: Machine Learning
+    
+    - name: Neural Networks & Fuzzy Logic
+
+  #publications: #(optional)
+  # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    # url: "#"
+  # grade:
+    # scale: GPA
+    # achieved: 4.52
+    # outOf: 10
+    
+  extracurricularActivities:
+  - Elected & Served as Network Representative for the academic year 2015-2016
+  - Involved in organization and management of P2P Training Program (Centre for Technical Education)
+  - Voluntarily, served as a moderator for the DirectConnect Hub (Titan) on Campus
+  
+- name: Telengana State Board of Intermediate Education (TSBIE)
+  icon: fa-university
+  timeframe: 2013-2015
+  institution:
+    name: Sri Chaitanya Junior Kalashala, Hydernagar
+    url: "https://srichaitanya.net/"
+  grade:
+    scale: Marks
+    achieved: 972
+    outOf: 1000
+  extracurricularActivities:
+  - Placed 81st among 1.5 Lakh students in KCET-2015
+  
+- name: Central Board of Secondary Education
+  icon: fa-school
+  timeframe: 2003-2013
+  institution:
+    name: Dream World School, Bellary
+    url: "http://www.dreamworldschool.com/"
+  grade:
+    scale: GPA
+    achieved: 10
+    outOf: 10
+  extracurricularActivities:
+  - Represented School at CBSE South Zone Regional Science Exhibition
+  - Particpated at CBSE South Zone Heritage India Quiz on behalf of School

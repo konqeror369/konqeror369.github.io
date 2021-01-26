@@ -1,0 +1,58 @@
+# section information
+section:
+  name: Positions of Responsibility
+  id: por
+  enable: true
+  weight: 10
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Campus-wide P2P Chat and File-Sharing Hub
+    #url: "https://www.example.com"
+    location: BITS Goa
+    # company overview
+    #overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+  positions:
+  - designation: Administrator
+    start: Jan 2016
+    end: Dec 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Administrator for a campus-wide peer-to-peer file-sharing and chat hub that facilitated quick and easy to use communication among students, based on Direct Connect (DC) protocol.
+    - Involved in hosting and running the hub 24*7 for 3000+ students, catering to students’ needs as demanded in functionality of the hub as a go-to place for any kind of information resources.
+    - Worked on Lua scripts, for functions such as noticeboards, mini-games, polls, etc that could be plugged into PtokaX Direct Connect Hub server application, which was used to host the hub.
+  # - designation: Junior Software Engineer
+    # start: Nov 2017
+    # end: Oct 2019
+    # responsibilities:
+    # - Implement and test xyz feature for abc tool.
+    # - Support client for abc tool.
+    # - Learn k,d,w technology for xyz.
+
+- company:
+    name: Centre for Technical Education (CTE)
+    location: BITS Goa
+  positions:
+  - designation: Core Member
+    start: Aug 2016
+    end: May 2017
+    responsibilities:
+    - Volunteered in organizing classes and events for 250+ students in the BITS Pilani, Goa Campus (BPGC) in the in-house mentoring program, CTE.
+    - Involved in scrutinizing of Mentorship applications and ensuring of proper conduct during the period of course offering, examination and awarding certification.
+
+- company:
+    name: Council for Student Affairs
+    location: BITS Goa
+  positions:
+  - designation: Network Representative
+    start: Aug 2015
+    end: July 2016
+    responsibilities:
+    - Elected as Network Representative by a huge majority, served as the point of contact for 185+ students of the hostel for any Network related issues between them and the Network Administrators of BITS Goa.
+    - Represented the aforementioned students at the Student Affairs Senate, Council for Student Affairs and Student Welfare Division meetings.

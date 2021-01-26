@@ -1,0 +1,67 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: SDE - I
+# your company information
+company:
+  name: Tally Solutions Prvt. Ltd.
+  url: "https://www.tallysolutions.com"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/CV.pdf"
+
+# a summary about you
+summary: 'A graduate student in Computer Science, with a strong impulse to work in a challenging environment where my academics paired with my skill-set could be applied and made practical, with keen interest to enrich my knowledge and gain experience in real-world applications. 
+A quick and self-learner with effective communication who builds positive, cohesive relationship. Strong interpersonal skills with notable written and verbal communication, venerable leadership expertise in planning, communication, decision-making and problem-solving.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "saicharanreddyk@outlook.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/konqeror369"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/saicharanreddyk/"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Leadership
+  percentage: 85
+  color: blue
+- name: Team Work
+  percentage: 90
+  color: yellow
+- name: Communication
+  percentage: 85
+  color: pink
+- name: Hard Working
+  percentage: 85
+  color: green
+- name: Fast Learner
+  percentage: 85
+  color: sky
+- name: Problem Solving
+  percentage: 85
+  color: orange
+# you can also provide color code instead of pre-defined color name
+# - name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
+# - name: Example 2
+#   percentage: 65
+#   color: "#8b8383"

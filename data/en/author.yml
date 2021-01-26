@@ -1,0 +1,16 @@
+# some information about you
+name: "Sai Charan Reddy K"
+nickname: "Sai Charan"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author/john.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "saicharanreddyk@outlook.com"
+  phone: "+91 944 930 1875"
+
+# some summary about what you do
+summary:
+  - I am a Software Developer
+  - I love Video Games & e-Sports
+  - I enjoy Movies & TV
