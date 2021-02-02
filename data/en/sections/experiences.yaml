@@ -11,54 +11,47 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Tally Solutions Prvt. Ltd.
+    url: "https://tallysolutions.com/"
+    location: Bengaluru
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Tally Solutions Pvt. Ltd., is an Indian multinational company that provides enterprise resource planning & accounting software to 2 million customers. 
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Software Development Engineer - I
+    start: Feb 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
+    - Build Reports for Tally product
+    - Design and develop Graphs for Reports in Tally
+    
+- company:
+    name: Tally Solutions Prvt. Ltd.
+    url: "https://tallysolutions.com/"
+    location: Bengaluru
+    # company overview
+    overview: Tally Solutions Pvt. Ltd., is an Indian multinational company that provides enterprise resource planning & accounting software to 2 million customers. 
+  positions:
+  - designation: Software Engineer - Trainee
+    start: Sept 2020
+    end: Feb 2021
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Was trained on Tally Product (TallyPrime) on both the Front (TDL) and Back ends (Underlying C++ for the TDL, Memory manager, Windows APIs for Data Access & Storage, Event Controller).
+    - Built additional reports using TDL (Tally Definition Language) for Tally product (e.g., - Top 10 Selling Stock Items) 
+    - Worked on introducing graphs into Tally Reports in Browser (TRiB) project
 
 - company:
-    name: PreExample Co.
-    url: "https://www.preexample.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Infinity Labs, UST Global
+    url: "https://ust.com/en"
+    location: Thiruvananthapuram
+    overview: UST is a global provider of digital technology and transformation, IT services and solutions. It specializes in financial services, retail & CPG, manufacturing, technology, media and telecom, semiconductor, and the public sector.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Research Intern
+    start: May 2017
+    end: July 2017
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
-
-- company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.intern.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
-  positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
-    responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Was mentored in Penetration Testing concepts, and built a simple Visual Basic based Key-logger with functionalities of recording keystrokes and mouse clicks. Event-triggered snapping of screenshots was added post the internship period.
+    - Packaged the program into an application with added functionality of automated mailing at regular/event-triggered intervals for remote retrieval of data.
+    - Additionally, was also involved in collecting data for a white-paper on comparative study of various services offered by five major public cloud service providers- AWS, MS Azure, Google, IBM & Oracle Clouds.
+    - As a part of drive to introduce interns to cloud, was familiarized with Azure ML Workspace and worked on a sample prediction models for Finance Markets based on existing data-sets on the Azure.

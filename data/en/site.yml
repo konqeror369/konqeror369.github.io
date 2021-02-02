@@ -5,6 +5,6 @@ copyright: © 2021 Copyright.
 description: Curriculum Vitae and personal blog of Sai Charan Reddy K.
 
 #Custom menus for NavBar
-customMenus:
-- name: Blog
-  url: https://konqeror369.github.io/blog/
+#customMenus:
+#- name: Contact Info at Bottom!
+  #url: https://konqeror369.github.io/contact/
