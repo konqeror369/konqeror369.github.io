@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Skills
+  name: Technical Skills/Expertise
   id: skills
   enable: true
   weight: 3
@@ -11,39 +11,25 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+- name: Languages
+  #logo: /images/sections/skills/kubernetes.png
+  summary: C/C++ (Intermediate -  3+ years), Python (Intermediate - 4+ years), Visual Basic (Beginner - 6 months)
+  #url: "https://kubernetes.io/"
 
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+- name: Tools & Integrated Development Environments (IDEs)
+  summary: Docker, Hadoop, ElasticSearch, Mesos, JIRA & BitBucket, Visual Studio, SlickEdit, Eclipse
 
-- name: Cloud Computing
-  logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+#- name: Tools
+  #summary: Docker, Hadoop, ElasticSearch, Mesos, JIRA
 
-- name: Docker
-  logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  url: "https://www.docker.com/"
+- name: Cloud Platforms
+  summary: Amazon Web Services (AWS), Microsoft Azure
 
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  url: "https://prometheus.io/"
+- name: Subjects
+  summary: Object-Oriented Programming, Data Structures & Algorithms, Operating Systems, Principles of Programming Languages, Database Systems & Computer Networks
 
-- name: Linux
-  logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+- name: Electives
+  summary: Real Time Systems, Cloud Computing, Data Storage Technologies & Networks, Machine Learning, Neural Networks & Fuzzy Logic
 
-- name: Git
-  logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  url: "https://git-scm.com/"
-
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+- name: Technical Proficiency
+  summary: Linux, Git, Networking Concepts (TCP/UDP/FTP/HTTP/SMTP Protocols, Topologies, OSI Model, DNS Routing, Socket Programming), OS (Virtualization, File Systems, Threads, Scheduling Algorithms, Memory Access), RDMBS (MySQL) & OODB, Storage Technologies (RAID, SAN & NAS Concepts; Data Access & Storage Windows APIs)

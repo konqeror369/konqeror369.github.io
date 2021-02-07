@@ -23,6 +23,11 @@ enableEmoji: true
 
 # Site parameters
 params:
+  
+  logo:
+    main: images/site/red.png
+    inverted: images/site/white.png
+    favicon: images/site/red.png
   # GitHub repo URL of your site
   gitRepo: https://github.com/konqeror369/konqeror369.github.io
 
