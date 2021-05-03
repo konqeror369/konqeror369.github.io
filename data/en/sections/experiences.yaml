@@ -11,22 +11,24 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Tally Solutions Prvt. Ltd.
+    name: Tally Solutions Pvt. Ltd.
     url: "https://tallysolutions.com/"
     location: Bengaluru
     # company overview
     overview: Tally Solutions Pvt. Ltd., is an Indian multinational company that provides enterprise resource planning & accounting software to 2 million customers. 
   positions:
   - designation: Software Development Engineer - I
-    start: Feb 2021
+    start: Apr 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Working on building eWayBill exchange between Tally Client & Government eWayBill APIs
+    - Working on expanding the existing functionality of e-Invoice exchange to facilitate eWayBill and build an exchange between Tally Client \& Government eWayBill APIs for additional eWayBill actions.
+    - Worked on resolving compiler warnings across the entire code base of Tally.
+    - Trained employees within Tally on C++ \& Multi-threading concepts, won an award for the same.
     
 - company:
-    name: Tally Solutions Prvt. Ltd.
+    name: Tally Solutions Pvt. Ltd.
     url: "https://tallysolutions.com/"
     location: Bengaluru
     # company overview
@@ -34,12 +36,10 @@ experiences:
   positions:
   - designation: Software Engineer - Trainee
     start: Sept 2020
-    end: Feb 2021
+    end: Mar 2021
     responsibilities:
-    - Was trained on Tally Product (TallyPrime) on both the Front (TDL) and Back ends (Underlying C++ for the TDL, Memory manager, Windows APIs for Data Access & Storage, Event Controller).
-    - Built additional reports using TDL (Tally Definition Language) for Tally product (e.g., - Top 10 Selling Stock Items) 
-    - Worked on introducing graphs into Tally Reports in Browser (TRiB) project
-
+    - Was trained on Tally Product (TallyPrime) on both the Front (TDL) and Back ends (Underlying C++ for the TDL, Memory manager, Windows APIs for Data Access & Storage, Event Controller.
+    - Built additional reports using TDL (Tally Definition Language) for the product and added graphs into Tally Reports in Browser (TRiB) project to extend the user-experience of reports existing in the Tally Client.
 - company:
     name: Infinity Labs, UST Global
     url: "https://ust.com/en"

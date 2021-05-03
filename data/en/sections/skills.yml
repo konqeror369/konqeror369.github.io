@@ -17,7 +17,7 @@ skills:
   #url: "https://kubernetes.io/"
 
 - name: Tools & Integrated Development Environments (IDEs)
-  summary: Docker, Hadoop, ElasticSearch, Mesos, JIRA & BitBucket, Visual Studio, SlickEdit, Eclipse
+  summary: Docker, Hadoop, ElasticSearch, Mesos, Kubernetes, JIRA & BitBucket, Visual Studio, SlickEdit, Eclipse
 
 #- name: Tools
   #summary: Docker, Hadoop, ElasticSearch, Mesos, JIRA
